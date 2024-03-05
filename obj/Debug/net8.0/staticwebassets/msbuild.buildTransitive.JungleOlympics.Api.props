@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/JungleOlympics.Api.props" />
+</Project>
